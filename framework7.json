@@ -1,0 +1,19 @@
+{
+  "cwd": "D:\\Aplicacion-Mobile-Pais",
+  "type": [
+    "web"
+  ],
+  "name": "ListCheck",
+  "framework": "react",
+  "template": "single-view",
+  "cssPreProcessor": "less",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
